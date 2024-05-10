@@ -1,0 +1,7 @@
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\ReadTextFileExample\bin\Debug\ReadTextFileExample.exe.config
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\ReadTextFileExample\bin\Debug\ReadTextFileExample.exe
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\ReadTextFileExample\bin\Debug\ReadTextFileExample.pdb
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\ReadTextFileExample\obj\Debug\ReadTextFileExample.csproj.AssemblyReference.cache
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\ReadTextFileExample\obj\Debug\ReadTextFileExample.csproj.CoreCompileInputs.cache
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\ReadTextFileExample\obj\Debug\ReadTextFileExample.exe
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\ReadTextFileExample\obj\Debug\ReadTextFileExample.pdb
